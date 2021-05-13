@@ -1,0 +1,45 @@
+@import "../../sass/index.scss";
+
+.social-media {
+    a {
+        margin: 0px 8px;
+        color: $font-grey;
+
+        &:first-of-type {
+            margin-left: 0;
+        }
+
+        &:last-of-type {
+            margin-right: 0;
+        }
+
+        .icon {
+            font-size: 20px;
+            opacity: 1 !important;
+
+            &:hover {
+                &.twitter {
+                    color: $twitter
+                }
+                &.github {
+                    color: $github
+                }
+                &.linkedin {
+                    color: $linkedin
+                }
+                &.mail {
+                    color: $mail
+                }
+                &.youtube {
+                    color: $youtube
+                }
+                &.facebook {
+                    color: $facebook
+                }
+                &.instagram {
+                    color: $instagram
+                }
+            }
+        }
+    }
+}

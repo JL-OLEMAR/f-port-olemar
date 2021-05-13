@@ -1,0 +1,11 @@
+.courses {
+    margin-top: 50px;
+
+    &__item {
+        img {
+            padding: 5px 0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+    }
+}
