@@ -1,0 +1,13 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/electron-react.jpg": "static/electron-react-1d120b9c1567f700e44cd9197fd56bf1.jpg",
+  "static/image-default.jpg": "static/image-default-2fc4622eace9e612e6bd5069bc499450.jpg",
+  "static/instaclone.jpg": "static/instaclone-a2e4d27cfef7f9f7d6f0d5b633774435.jpg",
+  "static/javascript-es6.jpg": "static/javascript-es6-55b8432a2fb9570f31a8f51ef106b2da.jpg",
+  "static/mern.jpg": "static/mern-a9eb0e9db914c024aad5988d4795f2be.jpg",
+  "static/react-native-cli.jpg": "static/react-native-cli-e675a3a73be7763a3e7bc8dbf65af172.jpg",
+  "static/react-native-expo.png": "static/react-native-expo-d7826c4283c9723dc9a5819ccaf54862.png",
+  "static/react-redux-nextjs.jpg": "static/react-redux-nextjs-30ab76492fd3a5cf64d5852d069f1c1c.jpg",
+  "static/web-programacion.jpg": "static/web-programacion-c13ae191ac1cd92a13bd46454a3c7637.jpg"
+}

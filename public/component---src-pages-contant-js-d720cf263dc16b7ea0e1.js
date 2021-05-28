@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[944],{8001:function(t,e,n){"use strict";n.d(e,{Z:function(){return a.Z}});var a=n(9218)},2882:function(t,e,n){"use strict";n.r(e);var a=n(7294),u=n(8001);e.default=function(){return a.createElement(u.Z,null,a.createElement("h3",null,"Estamos en la página de Contacto"))}}}]);
+//# sourceMappingURL=component---src-pages-contant-js-d720cf263dc16b7ea0e1.js.map

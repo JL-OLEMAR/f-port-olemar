@@ -34,9 +34,6 @@ export const query = graphql`
           url
           content
           createdAt
-          miniature {
-            publicURL
-          }
         }
       }
     }

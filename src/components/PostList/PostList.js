@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { map } from 'lodash'
-import { Card, Grid, Icon, Image } from 'semantic-ui-react'
+import { Card, Grid, Icon } from 'semantic-ui-react'
 import moment from 'moment'
 import 'moment/locale/es'
 
@@ -20,10 +20,10 @@ const PostList = ({ posts }) => {
           >
             <Link to={`/${post.url}`}>
               <Card className="post-list__item">
-                <Image
+                {/* <Image
                   src={post.miniature.publicURL}
                   alt={post.title}
-                />
+                /> */}
                 <Card.Content>
                   <Card.Header>{post.title}</Card.Header>
                 </Card.Content>
